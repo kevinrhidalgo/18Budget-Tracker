@@ -2,6 +2,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description 
 Creating a budget tracker where users can continue to add numbers into the application but giving user the ability to work easily online and offline. 
+## Application 
+<img width="1244" alt="Screen Shot 2021-05-17 at 9 14 26 PM" src="https://user-images.githubusercontent.com/78196245/118575711-19547280-b755-11eb-9072-dfac543844c6.png">
+
   ## Table of Contents 
 
   * [Installation](#installation)
